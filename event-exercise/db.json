@@ -1,0 +1,15 @@
+{
+  "events": [
+    {
+      "type": "Concert",
+      "title": "Blink-182",
+      "description": "concertje",
+      "date": "2023-10-15",
+      "startTime": "20:30",
+      "endTime": "23:15",
+      "location": "Ziggo Dome",
+      "url": "",
+      "id": 7
+    }
+  ]
+}
